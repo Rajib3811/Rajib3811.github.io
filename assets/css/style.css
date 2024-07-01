@@ -108,7 +108,7 @@ img {
     }
 
     .navbar-brand img {
-        border: 5px solid var(--color-brand);
+        border: 2.5px solid var(--color-brand);
     }
 
     /* CONTENT WRAPPER */
